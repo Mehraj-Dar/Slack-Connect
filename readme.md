@@ -3,7 +3,10 @@
 A full-stack web application to authenticate Slack users via OAuth and allow them to schedule messages to be posted in their Slack workspace. The system handles token management and scheduled task processing.
 
 ---
+## 🖼️ Screenshots
 
+### Home Page
+![Home Page](./demo.png)
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
