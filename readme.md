@@ -6,7 +6,7 @@ A full-stack web application to authenticate Slack users via OAuth and allow the
 ## 🖼️ Screenshots
 
 ### Home Page
-![Home Page](./demo.png)
+![Home Page](./demo.png.png)
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
