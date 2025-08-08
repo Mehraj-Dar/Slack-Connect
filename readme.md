@@ -98,25 +98,5 @@ Open your browser at [http://localhost:5173](http://localhost:5173)
 - Structuring a full-stack app using React and Express.
 - Environment variable security and configuration.
 
----
 
-## 🚀 Deployment
 
-You can deploy the app using:
-
-### GitHub Pages (Frontend only)
-- Push your frontend code to a GitHub repo.
-- Use `gh-pages` npm package or GitHub Actions to deploy.
-
-### Vercel (Recommended)
-- Go to [vercel.com](https://vercel.com) and connect your GitHub repo.
-- Add environment variables in Vercel dashboard.
-- It auto-deploys on push.
-
-### Backend Deployment
-- Host on Render, Railway, or any Node-friendly cloud platform.
-
----
-
-## 📄 License
-This project is developed as part of a college project and is free to use for educational purposes.
