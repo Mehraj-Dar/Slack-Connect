@@ -11,8 +11,8 @@ A full-stack web application to authenticate Slack users via OAuth and allow the
 
 ### 1. Clone the Repository
 ```bash
-https://github.com/your-username/slack-scheduler.git
-cd slack-scheduler
+https://github.com/Mehraj-Dar/Slack-Connect.git
+cd Slack-Connect
 ```
 
 ### 2. Backend Setup
@@ -39,11 +39,12 @@ npm install
 
 #### Optional: Add .env for frontend if needed
 
-### 4. Run Locally
+### 4. Run Locally 
 In one terminal:
 ```bash
 cd backend
-npm start
+npx nodemon --watch src --exec "node src/app.js"
+
 ```
 
 In another terminal:
@@ -52,7 +53,10 @@ cd frontend
 npm run dev
 ```
 
-Open your browser at [http://localhost:5173](http://localhost:5173)
+Open your browser at :
+---
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.187.1:3000
 
 ---
 
